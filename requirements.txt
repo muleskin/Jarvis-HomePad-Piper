@@ -1,0 +1,16 @@
+beautifulsoup4==4.11.2
+icrawler==0.6.9
+numpy==1.24.2
+openai==1.50.2
+piper==0.14.2
+piper_tts==1.2.0
+pygame==2.1.2
+python-dotenv==1.0.1
+python_weather==2.0.3
+RealtimeSTT==0.2.42
+RealtimeSTT==0.2.42
+Requests==2.32.3
+sounddevice==0.5.0
+soundfile==0.12.1
+spotipy==2.24.0
+yfinance==0.2.43
